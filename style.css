@@ -32,11 +32,11 @@ margin-bottom: 10px;
   background: #0472ad;
   border: none;
   padding: 12px;
-  color: white;
+  color: black;
 }
 
 .error {
-color: red;
+color: blue;
 }
 
 .successfull {
